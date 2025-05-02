@@ -1,1 +1,0 @@
-.gridemblem-emblemdetail 
